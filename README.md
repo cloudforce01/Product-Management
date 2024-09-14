@@ -1,7 +1,7 @@
 # Sample Product Management Portfolio for eCommerce Platform
 
 Welcome to the Sample Product Management Portfolio for an eCommerce Platform. This document serves as a comprehensive guide to product management practices, strategies, and tools used in managing a product lifecycle in an eCommerce environment.
-Note: You can view or download the document from [here](https://github.com/cloudforce01/Product-Management/blob/main/Product-Management-Portfolio-eCommerce%20Platform.pdf)
+Note: You can view or download the document from [here](https://github.com/cloudforce01/Product-Management/blob/main/Product-Management-Portfolio-eCommerce-Platform.pdf)
 ## Table of Contents
 
 1. [Product Management]
